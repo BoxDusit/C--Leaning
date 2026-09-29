@@ -1,0 +1,37 @@
+C:\The World\app5\app5\bin\Debug\app5.exe.config
+C:\The World\app5\app5\bin\Debug\app5.exe
+C:\The World\app5\app5\bin\Debug\app5.pdb
+C:\The World\app5\app5\obj\Debug\app5.csproj.AssemblyReference.cache
+C:\The World\app5\app5\obj\Debug\app5.ProductByCategory.resources
+C:\The World\app5\app5\obj\Debug\app5.WorkShop7.resources
+C:\The World\app5\app5\obj\Debug\app5.FrmAddUser.resources
+C:\The World\app5\app5\obj\Debug\app5.Main.resources
+C:\The World\app5\app5\obj\Debug\app5.MainMenu.resources
+C:\The World\app5\app5\obj\Debug\app5.Menu.resources
+C:\The World\app5\app5\obj\Debug\app5.Properties.Resources.resources
+C:\The World\app5\app5\obj\Debug\app5.Workshop10.resources
+C:\The World\app5\app5\obj\Debug\app5.OrdersAndDetail.resources
+C:\The World\app5\app5\obj\Debug\app5.Workshop8.resources
+C:\The World\app5\app5\obj\Debug\app5.csproj.GenerateResource.cache
+C:\The World\app5\app5\obj\Debug\app5.csproj.CoreCompileInputs.cache
+C:\The World\app5\app5\obj\Debug\app5.exe
+C:\The World\app5\app5\obj\Debug\app5.pdb
+C:\Users\Admin\Source\Repos\app5\bin\Debug\app5.exe.config
+C:\Users\Admin\Source\Repos\app5\bin\Debug\app5.exe
+C:\Users\Admin\Source\Repos\app5\bin\Debug\app5.pdb
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.exe.config
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.ProductByCategory.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.WorkShop7.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.FrmAddUser.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.Main.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.MainMenu.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.Menu.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.Workshop10.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.OrdersAndDetail.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.Workshop8.resources
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.exe
+C:\Users\Admin\Source\Repos\app5\obj\Debug\app5.pdb
